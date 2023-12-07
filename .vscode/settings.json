@@ -1,6 +1,7 @@
 {
   "files.associations": {
     "*.bf": "brainfuck",
-    "typeinfo": "cpp"
+    "typeinfo": "cpp",
+    "iostream": "cpp"
   }
 }
