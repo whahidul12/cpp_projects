@@ -46,5 +46,6 @@ int main()
     cout << "deleted unsuccessfully!\nSorry\n";
     cout << "array size: " << sizeof(array) / sizeof(int);
   }
+  cout << ">>> " << array[2];
   return 0;
 }
